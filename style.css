@@ -1,0 +1,62 @@
+.titel {
+    margin-top: 99px;
+}
+.titels {
+    margin-top: 30px;
+}
+.section{background-color: #F9F9FF;
+}
+.section-2{
+    background-color: #8490FF;
+} 
+.section-3{
+    background-color: #F3F3FF;
+} 
+.roll{ 
+    margin-bottom: 9px;
+}
+.text-muted{
+    margin-bottom: 39px;
+}
+.call{
+    margin-bottom:26px;
+}
+.box {
+    background: white;
+    padding-top: 15px;
+} 
+.call {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f2f3ff;
+    border-radius: 50px;
+    width: 86px;
+    height: 86px;
+    margin: auto;
+}
+.footer{
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 12px;
+}
+.btn.btn-sm {
+    background: #8491FF; 
+    color: white;
+}
+.roll.form-control.mb-3 {
+    padding-bottom: 86px;
+}
+
+
+.about-item {
+    margin-top: 90px;
+}
+.about-item .card{}
+.about-item .card img {
+    width: 86px; 
+    height: auto;
+    margin-top: -51px;
+    margin-left: 13px;
+}
